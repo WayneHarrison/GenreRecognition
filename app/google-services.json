@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "896775596595",
+    "firebase_url": "https://music-recognition-16912.firebaseio.com",
+    "project_id": "music-recognition-16912",
+    "storage_bucket": "music-recognition-16912.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896775596595:android:7bd3fbcd13d474c1",
+        "android_client_info": {
+          "package_name": "com.example.genrerecognitionjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896775596595-agnld5s26ggkllmis80qbl2n6u6cq5su.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.genrerecognitionjava",
+            "certificate_hash": "501376f7811a3ae5ae161e520778a30659264640"
+          }
+        },
+        {
+          "client_id": "896775596595-c0cp5l8db8jh5mk1kcedkelrk3pc91rq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi6IZ-dOVUIw7aTUk2nDJx6dBSMxZ-Zng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896775596595-c0cp5l8db8jh5mk1kcedkelrk3pc91rq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
